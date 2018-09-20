@@ -1,0 +1,14 @@
+{
+  "name": "socketio-real-time-ball-game",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Enes Ulutaş <enestein07@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/enesulutas/socketio-real-time-ball-game",
+  "dependencies": {
+    "angular": "^1.7.4",
+    "semantic": "^2.4.0"
+  }
+}
